@@ -48,7 +48,7 @@
         
         <div>
           <p>Bukti Screenshoot</p>
-        <img src="..\src\assets\Git.jpeg" width="600px" />
+        <img src="../assets/Git.jpg" width="600px" />
         </div>
         </ol>
 
@@ -94,7 +94,7 @@
         
         <div>
           <p>Bukti Screenshoot</p>
-           <img src="..\src\assets\UI UX.jpeg" width="600px" />
+           <img src="../assets/UI UX.jpeg" width="600px" />
         </div>
         </ol>
 
@@ -150,7 +150,7 @@
         
         <div>
           <p>Bukti Screenshoot</p>
-           <img src="..\src\assets\Figma.png" width="600px" />
+           <img src="../assets/Figma.png" width="600px" />
         </div>
         </ol>
       </TabPage>
@@ -192,7 +192,7 @@
         <p class="pt-1 pl-5 pr-5">Link Github: <a href="https://github.com/Itinnnn/Vue_Kristina-Silitonga/tree/main/5_HTML" target="_blank">klik disini</a></p>
         <div>
           <p>Bukti Screenshoot</p>
-           <img src="..\src\assets\Html.png" width="600px" />
+           <img src="../assets/Html.png" width="600px" />
         </div>
         </ol>
         
@@ -237,7 +237,7 @@
         
         <div>
           <p>Bukti Screenshoot</p>
-          <img src="..\src\assets\CSS.png" width="600px" />
+          <img src="../assets/CSS.png" width="600px" />
         </div>
         </ol>
       </TabPage>
@@ -295,7 +295,7 @@
         
         <div>
           <p>Bukti Screenshoot</p>
-         <img src="..\src\assets\Bootstrap.png" width="600px" />
+         <img src="../assets/Bootstrap.png" width="600px" />
         </div>
         </ol>
       </TabPage>
@@ -353,7 +353,7 @@
         
         <div>
           <p>Bukti Screenshoot</p>
-          <img src="..\src\assets\Javascript.png" width="600px" />
+          <img src="../assets/Javascript.png" width="600px" />
         </div>
         </ol>
       </TabPage>
@@ -408,7 +408,7 @@
         
         <div>
           <p>Bukti Screenshoot</p>
-        <img src="..\src\assets\cleancode.png" width="600px" />
+        <img src="../assets/cleancode.png" width="600px" />
         </div>
         </ol>
       </TabPage>
